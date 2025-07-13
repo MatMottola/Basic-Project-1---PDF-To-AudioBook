@@ -9,4 +9,4 @@ To Use, simple run the program and select a PDF File.
 
 TTs should start automatically.
 
-Press "Esc" to end the readin
+Press "Esc" to end the reading
